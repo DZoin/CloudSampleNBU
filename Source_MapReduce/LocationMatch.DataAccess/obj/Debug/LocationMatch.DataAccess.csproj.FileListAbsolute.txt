@@ -1,0 +1,24 @@
+C:\TFS\AlexPanov\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.DataAccess\bin\Debug\LocationMatch.DataAccess.dll.config
+C:\TFS\AlexPanov\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.DataAccess\bin\Debug\LocationMatch.DataAccess.dll
+C:\TFS\AlexPanov\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.DataAccess\bin\Debug\LocationMatch.DataAccess.pdb
+C:\TFS\AlexPanov\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.DataAccess\bin\Debug\EntityFramework.dll
+C:\TFS\AlexPanov\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.DataAccess\bin\Debug\EntityFramework.xml
+C:\TFS\AlexPanov\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.DataAccess\obj\Debug\LocationMatch.DataAccess.dll
+C:\TFS\AlexPanov\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.DataAccess\obj\Debug\LocationMatch.DataAccess.pdb
+C:\Users\Pano\Desktop\INFM115_Week14 Demo\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.DataAccess\bin\Debug\LocationMatch.DataAccess.dll.config
+C:\Users\Pano\Desktop\INFM115_Week14 Demo\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.DataAccess\bin\Debug\LocationMatch.DataAccess.dll
+C:\Users\Pano\Desktop\INFM115_Week14 Demo\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.DataAccess\bin\Debug\LocationMatch.DataAccess.pdb
+C:\Users\Pano\Desktop\INFM115_Week14 Demo\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.DataAccess\bin\Debug\EntityFramework.dll
+C:\Users\Pano\Desktop\INFM115_Week14 Demo\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.DataAccess\bin\Debug\EntityFramework.xml
+C:\Users\Pano\Desktop\INFM115_Week14 Demo\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.DataAccess\obj\Debug\LocationMatch.DataAccess.csprojResolveAssemblyReference.cache
+C:\Users\Pano\Desktop\INFM115_Week14 Demo\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.DataAccess\obj\Debug\LocationMatch.DataAccess.dll
+C:\Users\Pano\Desktop\INFM115_Week14 Demo\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.DataAccess\obj\Debug\LocationMatch.DataAccess.pdb
+E:\Cloud2017\NETB481_Week12\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.DataAccess\bin\Debug\LocationMatch.DataAccess.dll.config
+E:\Cloud2017\NETB481_Week12\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.DataAccess\bin\Debug\LocationMatch.DataAccess.dll
+E:\Cloud2017\NETB481_Week12\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.DataAccess\bin\Debug\LocationMatch.DataAccess.pdb
+E:\Cloud2017\NETB481_Week12\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.DataAccess\bin\Debug\EntityFramework.dll
+E:\Cloud2017\NETB481_Week12\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.DataAccess\bin\Debug\EntityFramework.xml
+E:\Cloud2017\NETB481_Week12\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.DataAccess\obj\Debug\LocationMatch.DataAccess.csprojResolveAssemblyReference.cache
+E:\Cloud2017\NETB481_Week12\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.DataAccess\obj\Debug\LocationMatch.DataAccess.dll
+E:\Cloud2017\NETB481_Week12\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.DataAccess\obj\Debug\LocationMatch.DataAccess.pdb
+E:\Cloud2017\NETB481_Week12\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.DataAccess\obj\Debug\LocationMatch.DataAccess.csproj.CoreCompileInputs.cache

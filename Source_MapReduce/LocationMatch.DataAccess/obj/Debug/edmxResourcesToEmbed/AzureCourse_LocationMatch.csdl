@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="AzureCourse_LocationMatchModel" Alias="Self" p1:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:p1="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityContainer Name="AzureCourse_LocationMatchEntities" p1:LazyLoadingEnabled="true">
+    <EntitySet Name="Locations" EntityType="AzureCourse_LocationMatchModel.Location" />
+    <EntitySet Name="LocationLists" EntityType="AzureCourse_LocationMatchModel.LocationList" />
+    <EntitySet Name="Tracks" EntityType="AzureCourse_LocationMatchModel.Track" />
+    <AssociationSet Name="B_LocationListLocation" Association="AzureCourse_LocationMatchModel.B_LocationListLocation">
+      <End Role="LocationList" EntitySet="LocationLists" />
+      <End Role="Location" EntitySet="Locations" />
+    </AssociationSet>
+    <EntitySet Name="LocationMatchAnalysis" EntityType="AzureCourse_LocationMatchModel.LocationMatchAnalysi" />
+  </EntityContainer>
+  <EntityType Name="Location">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Type="Int32" Name="Id" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Type="String" Name="Name" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Type="Decimal" Name="Latitude" Nullable="false" Precision="9" Scale="6" />
+    <Property Type="Decimal" Name="Longitude" Nullable="false" Precision="9" Scale="6" />
+    <NavigationProperty Name="LocationLists" Relationship="AzureCourse_LocationMatchModel.B_LocationListLocation" FromRole="Location" ToRole="LocationList" />
+  </EntityType>
+  <EntityType Name="LocationList">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Type="Int32" Name="Id" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Type="String" Name="Name" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="Locations" Relationship="AzureCourse_LocationMatchModel.B_LocationListLocation" FromRole="LocationList" ToRole="Location" />
+  </EntityType>
+  <EntityType Name="Track">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Type="Int32" Name="Id" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Type="String" Name="Name" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Type="String" Name="Gpx" Nullable="false" MaxLength="Max" FixedLength="false" Unicode="true" />
+  </EntityType>
+  <Association Name="B_LocationListLocation">
+    <End Type="AzureCourse_LocationMatchModel.LocationList" Role="LocationList" Multiplicity="*" />
+    <End Type="AzureCourse_LocationMatchModel.Location" Role="Location" Multiplicity="*" />
+  </Association>
+  <EntityType Name="LocationMatchAnalysi">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Type="Int32" Name="Id" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Type="Int32" Name="LocationListId" Nullable="false" />
+    <Property Type="Int32" Name="TrackId" Nullable="false" />
+    <Property Type="String" Name="LocationListName" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Type="String" Name="TrackName" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Type="Decimal" Name="Radius" Nullable="false" Precision="18" Scale="2" />
+    <Property Type="DateTime" Name="TimeSubmitted" Nullable="false" Precision="3" />
+    <Property Type="DateTime" Name="TimeStarted" Precision="3" />
+    <Property Type="DateTime" Name="TimeFinished" Precision="3" />
+    <Property Type="String" Name="Status" Nullable="false" MaxLength="10" FixedLength="false" Unicode="true" />
+    <Property Type="String" Name="Result" MaxLength="Max" FixedLength="false" Unicode="true" />
+  </EntityType>
+</Schema>

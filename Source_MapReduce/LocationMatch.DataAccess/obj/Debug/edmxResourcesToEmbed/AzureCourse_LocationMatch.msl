@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="AzureCourse_LocationMatchModelStoreContainer" CdmEntityContainer="AzureCourse_LocationMatchEntities">
+    <EntitySetMapping Name="Locations">
+      <EntityTypeMapping TypeName="AzureCourse_LocationMatchModel.Location">
+        <MappingFragment StoreEntitySet="Location">
+          <ScalarProperty Name="Longitude" ColumnName="Longitude" />
+          <ScalarProperty Name="Latitude" ColumnName="Latitude" />
+          <ScalarProperty Name="Name" ColumnName="Name" />
+          <ScalarProperty Name="Id" ColumnName="Id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="LocationLists">
+      <EntityTypeMapping TypeName="AzureCourse_LocationMatchModel.LocationList">
+        <MappingFragment StoreEntitySet="LocationList">
+          <ScalarProperty Name="Name" ColumnName="Name" />
+          <ScalarProperty Name="Id" ColumnName="Id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Tracks">
+      <EntityTypeMapping TypeName="AzureCourse_LocationMatchModel.Track">
+        <MappingFragment StoreEntitySet="Track">
+          <ScalarProperty Name="Gpx" ColumnName="Gpx" />
+          <ScalarProperty Name="Name" ColumnName="Name" />
+          <ScalarProperty Name="Id" ColumnName="Id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <AssociationSetMapping Name="B_LocationListLocation" TypeName="AzureCourse_LocationMatchModel.B_LocationListLocation" StoreEntitySet="B_LocationListLocation">
+      <EndProperty Name="Location">
+        <ScalarProperty Name="Id" ColumnName="LocationId" />
+      </EndProperty>
+      <EndProperty Name="LocationList">
+        <ScalarProperty Name="Id" ColumnName="LocationListId" />
+      </EndProperty>
+    </AssociationSetMapping>
+    <EntitySetMapping Name="LocationMatchAnalysis">
+      <EntityTypeMapping TypeName="AzureCourse_LocationMatchModel.LocationMatchAnalysi">
+        <MappingFragment StoreEntitySet="LocationMatchAnalysis">
+          <ScalarProperty Name="Result" ColumnName="Result" />
+          <ScalarProperty Name="Status" ColumnName="Status" />
+          <ScalarProperty Name="TimeFinished" ColumnName="TimeFinished" />
+          <ScalarProperty Name="TimeStarted" ColumnName="TimeStarted" />
+          <ScalarProperty Name="TimeSubmitted" ColumnName="TimeSubmitted" />
+          <ScalarProperty Name="Radius" ColumnName="Radius" />
+          <ScalarProperty Name="TrackName" ColumnName="TrackName" />
+          <ScalarProperty Name="LocationListName" ColumnName="LocationListName" />
+          <ScalarProperty Name="TrackId" ColumnName="TrackId" />
+          <ScalarProperty Name="LocationListId" ColumnName="LocationListId" />
+          <ScalarProperty Name="Id" ColumnName="Id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

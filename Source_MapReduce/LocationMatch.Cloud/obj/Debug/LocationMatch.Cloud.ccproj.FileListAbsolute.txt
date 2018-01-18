@@ -1,0 +1,468 @@
+C:\TFS\AlexPanov\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\bin\Debug\ServiceConfiguration.cscfg
+C:\TFS\AlexPanov\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\bin\Debug\ServiceDefinition.csdef
+C:\TFS\AlexPanov\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.WebSite.WebRole\bin\Antlr3.Runtime.dll
+C:\TFS\AlexPanov\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.WebSite.WebRole\bin\AspNet.ScriptManager.jQuery.dll
+C:\TFS\AlexPanov\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.WebSite.WebRole\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+C:\TFS\AlexPanov\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.WebSite.WebRole\bin\Default.js
+C:\TFS\AlexPanov\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.WebSite.WebRole\bin\de\Microsoft.Data.Edm.resources.dll
+C:\TFS\AlexPanov\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.WebSite.WebRole\bin\de\Microsoft.Data.OData.resources.dll
+C:\TFS\AlexPanov\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.WebSite.WebRole\bin\de\Microsoft.Data.Services.Client.resources.dll
+C:\TFS\AlexPanov\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.WebSite.WebRole\bin\de\System.Spatial.resources.dll
+C:\TFS\AlexPanov\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.WebSite.WebRole\bin\DotNetOpenAuth.AspNet.dll
+C:\TFS\AlexPanov\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.WebSite.WebRole\bin\DotNetOpenAuth.AspNet.xml
+C:\TFS\AlexPanov\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.WebSite.WebRole\bin\DotNetOpenAuth.Core.dll
+C:\TFS\AlexPanov\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.WebSite.WebRole\bin\DotNetOpenAuth.Core.xml
+C:\TFS\AlexPanov\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.WebSite.WebRole\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\TFS\AlexPanov\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.WebSite.WebRole\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\TFS\AlexPanov\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.WebSite.WebRole\bin\DotNetOpenAuth.OAuth.dll
+C:\TFS\AlexPanov\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.WebSite.WebRole\bin\DotNetOpenAuth.OAuth.xml
+C:\TFS\AlexPanov\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.WebSite.WebRole\bin\DotNetOpenAuth.OpenId.dll
+C:\TFS\AlexPanov\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.WebSite.WebRole\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\TFS\AlexPanov\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.WebSite.WebRole\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\TFS\AlexPanov\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.WebSite.WebRole\bin\DotNetOpenAuth.OpenId.xml
+C:\TFS\AlexPanov\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.WebSite.WebRole\bin\EntityFramework.dll
+C:\TFS\AlexPanov\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.WebSite.WebRole\bin\EntityFramework.xml
+C:\TFS\AlexPanov\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.WebSite.WebRole\bin\es\Microsoft.Data.Edm.resources.dll
+C:\TFS\AlexPanov\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.WebSite.WebRole\bin\es\Microsoft.Data.OData.resources.dll
+C:\TFS\AlexPanov\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.WebSite.WebRole\bin\es\Microsoft.Data.Services.Client.resources.dll
+C:\TFS\AlexPanov\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.WebSite.WebRole\bin\es\System.Spatial.resources.dll
+C:\TFS\AlexPanov\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.WebSite.WebRole\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\TFS\AlexPanov\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.WebSite.WebRole\bin\fr\Microsoft.Data.OData.resources.dll
+C:\TFS\AlexPanov\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.WebSite.WebRole\bin\fr\Microsoft.Data.Services.Client.resources.dll
+C:\TFS\AlexPanov\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.WebSite.WebRole\bin\fr\System.Spatial.resources.dll
+C:\TFS\AlexPanov\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.WebSite.WebRole\bin\it\Microsoft.Data.Edm.resources.dll
+C:\TFS\AlexPanov\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.WebSite.WebRole\bin\it\Microsoft.Data.OData.resources.dll
+C:\TFS\AlexPanov\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.WebSite.WebRole\bin\it\Microsoft.Data.Services.Client.resources.dll
+C:\TFS\AlexPanov\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.WebSite.WebRole\bin\it\System.Spatial.resources.dll
+C:\TFS\AlexPanov\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.WebSite.WebRole\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\TFS\AlexPanov\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.WebSite.WebRole\bin\ja\Microsoft.Data.OData.resources.dll
+C:\TFS\AlexPanov\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.WebSite.WebRole\bin\ja\Microsoft.Data.Services.Client.resources.dll
+C:\TFS\AlexPanov\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.WebSite.WebRole\bin\ja\System.Spatial.resources.dll
+C:\TFS\AlexPanov\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.WebSite.WebRole\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\TFS\AlexPanov\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.WebSite.WebRole\bin\ko\Microsoft.Data.OData.resources.dll
+C:\TFS\AlexPanov\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.WebSite.WebRole\bin\ko\Microsoft.Data.Services.Client.resources.dll
+C:\TFS\AlexPanov\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.WebSite.WebRole\bin\ko\System.Spatial.resources.dll
+C:\TFS\AlexPanov\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.WebSite.WebRole\bin\LocationMatch.DataAccess.dll
+C:\TFS\AlexPanov\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.WebSite.WebRole\bin\LocationMatch.DataAccess.pdb
+C:\TFS\AlexPanov\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.WebSite.WebRole\bin\LocationMatch.WebSite.WebRole.dll
+C:\TFS\AlexPanov\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.WebSite.WebRole\bin\LocationMatch.WebSite.WebRole.dll.config
+C:\TFS\AlexPanov\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.WebSite.WebRole\bin\LocationMatch.WebSite.WebRole.pdb
+C:\TFS\AlexPanov\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.WebSite.WebRole\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\TFS\AlexPanov\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.WebSite.WebRole\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\TFS\AlexPanov\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.WebSite.WebRole\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+C:\TFS\AlexPanov\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.WebSite.WebRole\bin\Microsoft.AspNet.Membership.OpenAuth.xml
+C:\TFS\AlexPanov\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.WebSite.WebRole\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\TFS\AlexPanov\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.WebSite.WebRole\bin\Microsoft.Data.Edm.dll
+C:\TFS\AlexPanov\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.WebSite.WebRole\bin\Microsoft.Data.Edm.xml
+C:\TFS\AlexPanov\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.WebSite.WebRole\bin\Microsoft.Data.OData.dll
+C:\TFS\AlexPanov\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.WebSite.WebRole\bin\Microsoft.Data.OData.xml
+C:\TFS\AlexPanov\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.WebSite.WebRole\bin\Microsoft.Data.Services.Client.dll
+C:\TFS\AlexPanov\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.WebSite.WebRole\bin\Microsoft.Data.Services.Client.xml
+C:\TFS\AlexPanov\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.WebSite.WebRole\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\TFS\AlexPanov\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.WebSite.WebRole\bin\Microsoft.ScriptManager.WebForms.dll
+C:\TFS\AlexPanov\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.WebSite.WebRole\bin\Microsoft.Web.Infrastructure.dll
+C:\TFS\AlexPanov\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.WebSite.WebRole\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\TFS\AlexPanov\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.WebSite.WebRole\bin\Microsoft.WindowsAzure.Configuration.xml
+C:\TFS\AlexPanov\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.WebSite.WebRole\bin\Microsoft.WindowsAzure.Diagnostics.dll
+C:\TFS\AlexPanov\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.WebSite.WebRole\bin\Microsoft.WindowsAzure.Storage.dll
+C:\TFS\AlexPanov\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.WebSite.WebRole\bin\Microsoft.WindowsAzure.Storage.xml
+C:\TFS\AlexPanov\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.WebSite.WebRole\bin\MonAgentListener.dll
+C:\TFS\AlexPanov\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.WebSite.WebRole\bin\Mono.Math.dll
+C:\TFS\AlexPanov\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.WebSite.WebRole\bin\Mono.Math.xml
+C:\TFS\AlexPanov\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.WebSite.WebRole\bin\Newtonsoft.Json.dll
+C:\TFS\AlexPanov\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.WebSite.WebRole\bin\Newtonsoft.Json.xml
+C:\TFS\AlexPanov\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.WebSite.WebRole\bin\Org.Mentalis.Security.Cryptography.dll
+C:\TFS\AlexPanov\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.WebSite.WebRole\bin\Org.Mentalis.Security.Cryptography.xml
+C:\TFS\AlexPanov\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.WebSite.WebRole\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\TFS\AlexPanov\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.WebSite.WebRole\bin\ru\Microsoft.Data.OData.resources.dll
+C:\TFS\AlexPanov\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.WebSite.WebRole\bin\ru\Microsoft.Data.Services.Client.resources.dll
+C:\TFS\AlexPanov\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.WebSite.WebRole\bin\ru\System.Spatial.resources.dll
+C:\TFS\AlexPanov\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.WebSite.WebRole\bin\System.Spatial.dll
+C:\TFS\AlexPanov\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.WebSite.WebRole\bin\System.Spatial.xml
+C:\TFS\AlexPanov\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.WebSite.WebRole\bin\System.Web.Optimization.dll
+C:\TFS\AlexPanov\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.WebSite.WebRole\bin\System.Web.Providers.dll
+C:\TFS\AlexPanov\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.WebSite.WebRole\bin\WebGrease.dll
+C:\TFS\AlexPanov\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.WebSite.WebRole\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\TFS\AlexPanov\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.WebSite.WebRole\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\TFS\AlexPanov\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.WebSite.WebRole\bin\zh-Hans\Microsoft.Data.Services.Client.resources.dll
+C:\TFS\AlexPanov\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.WebSite.WebRole\bin\zh-Hans\System.Spatial.resources.dll
+C:\TFS\AlexPanov\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.WebSite.WebRole\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\TFS\AlexPanov\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.WebSite.WebRole\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\TFS\AlexPanov\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.WebSite.WebRole\bin\zh-Hant\Microsoft.Data.Services.Client.resources.dll
+C:\TFS\AlexPanov\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.WebSite.WebRole\bin\zh-Hant\System.Spatial.resources.dll
+C:\TFS\AlexPanov\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.Analysis.WorkerRole\de\Microsoft.Data.Edm.resources.dll
+C:\TFS\AlexPanov\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.Analysis.WorkerRole\de\Microsoft.Data.OData.resources.dll
+C:\TFS\AlexPanov\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.Analysis.WorkerRole\de\Microsoft.Data.Services.Client.resources.dll
+C:\TFS\AlexPanov\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.Analysis.WorkerRole\de\System.Spatial.resources.dll
+C:\TFS\AlexPanov\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.Analysis.WorkerRole\EntityFramework.dll
+C:\TFS\AlexPanov\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.Analysis.WorkerRole\es\Microsoft.Data.Edm.resources.dll
+C:\TFS\AlexPanov\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.Analysis.WorkerRole\es\Microsoft.Data.OData.resources.dll
+C:\TFS\AlexPanov\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.Analysis.WorkerRole\es\Microsoft.Data.Services.Client.resources.dll
+C:\TFS\AlexPanov\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.Analysis.WorkerRole\es\System.Spatial.resources.dll
+C:\TFS\AlexPanov\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.Analysis.WorkerRole\fr\Microsoft.Data.Edm.resources.dll
+C:\TFS\AlexPanov\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.Analysis.WorkerRole\fr\Microsoft.Data.OData.resources.dll
+C:\TFS\AlexPanov\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.Analysis.WorkerRole\fr\Microsoft.Data.Services.Client.resources.dll
+C:\TFS\AlexPanov\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.Analysis.WorkerRole\fr\System.Spatial.resources.dll
+C:\TFS\AlexPanov\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.Analysis.WorkerRole\it\Microsoft.Data.Edm.resources.dll
+C:\TFS\AlexPanov\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.Analysis.WorkerRole\it\Microsoft.Data.OData.resources.dll
+C:\TFS\AlexPanov\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.Analysis.WorkerRole\it\Microsoft.Data.Services.Client.resources.dll
+C:\TFS\AlexPanov\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.Analysis.WorkerRole\it\System.Spatial.resources.dll
+C:\TFS\AlexPanov\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.Analysis.WorkerRole\ja\Microsoft.Data.Edm.resources.dll
+C:\TFS\AlexPanov\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.Analysis.WorkerRole\ja\Microsoft.Data.OData.resources.dll
+C:\TFS\AlexPanov\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.Analysis.WorkerRole\ja\Microsoft.Data.Services.Client.resources.dll
+C:\TFS\AlexPanov\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.Analysis.WorkerRole\ja\System.Spatial.resources.dll
+C:\TFS\AlexPanov\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.Analysis.WorkerRole\ko\Microsoft.Data.Edm.resources.dll
+C:\TFS\AlexPanov\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.Analysis.WorkerRole\ko\Microsoft.Data.OData.resources.dll
+C:\TFS\AlexPanov\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.Analysis.WorkerRole\ko\Microsoft.Data.Services.Client.resources.dll
+C:\TFS\AlexPanov\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.Analysis.WorkerRole\ko\System.Spatial.resources.dll
+C:\TFS\AlexPanov\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.Analysis.WorkerRole\LocationMatch.Analysis.WorkerRole.dll
+C:\TFS\AlexPanov\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.Analysis.WorkerRole\LocationMatch.Analysis.WorkerRole.dll.config
+C:\TFS\AlexPanov\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.Analysis.WorkerRole\LocationMatch.Analysis.WorkerRole.pdb
+C:\TFS\AlexPanov\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.Analysis.WorkerRole\LocationMatch.DataAccess.dll
+C:\TFS\AlexPanov\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.Analysis.WorkerRole\LocationMatch.DataAccess.pdb
+C:\TFS\AlexPanov\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.Analysis.WorkerRole\Microsoft.Data.Edm.dll
+C:\TFS\AlexPanov\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.Analysis.WorkerRole\Microsoft.Data.OData.dll
+C:\TFS\AlexPanov\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.Analysis.WorkerRole\Microsoft.Data.Services.Client.dll
+C:\TFS\AlexPanov\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.Analysis.WorkerRole\Microsoft.Hadoop.MapReduce.dll
+C:\TFS\AlexPanov\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.Analysis.WorkerRole\Microsoft.Hadoop.WebClient.dll
+C:\TFS\AlexPanov\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.Analysis.WorkerRole\Microsoft.WindowsAzure.Configuration.dll
+C:\TFS\AlexPanov\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.Analysis.WorkerRole\Microsoft.WindowsAzure.Diagnostics.dll
+C:\TFS\AlexPanov\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.Analysis.WorkerRole\Microsoft.WindowsAzure.Management.HDInsight.Framework.Experimental.dll
+C:\TFS\AlexPanov\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.Analysis.WorkerRole\Microsoft.WindowsAzure.Management.HDInsight.Framework.Experimental.Threading.dll
+C:\TFS\AlexPanov\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.Analysis.WorkerRole\Microsoft.WindowsAzure.Storage.dll
+C:\TFS\AlexPanov\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.Analysis.WorkerRole\MonAgentListener.dll
+C:\TFS\AlexPanov\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.Analysis.WorkerRole\MRLib\Microsoft.Hadoop.CombineDriver.exe
+C:\TFS\AlexPanov\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.Analysis.WorkerRole\MRLib\Microsoft.Hadoop.MapDriver.exe
+C:\TFS\AlexPanov\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.Analysis.WorkerRole\MRLib\Microsoft.Hadoop.MapReduce.dll
+C:\TFS\AlexPanov\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.Analysis.WorkerRole\MRLib\Microsoft.Hadoop.ReduceDriver.exe
+C:\TFS\AlexPanov\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.Analysis.WorkerRole\MRLib\Microsoft.WindowsAzure.Management.HDInsight.Framework.Experimental.Threading.dll
+C:\TFS\AlexPanov\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.Analysis.WorkerRole\MRLib\MRRunner.exe
+C:\TFS\AlexPanov\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.Analysis.WorkerRole\Newtonsoft.Json.dll
+C:\TFS\AlexPanov\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.Analysis.WorkerRole\ru\Microsoft.Data.Edm.resources.dll
+C:\TFS\AlexPanov\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.Analysis.WorkerRole\ru\Microsoft.Data.OData.resources.dll
+C:\TFS\AlexPanov\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.Analysis.WorkerRole\ru\Microsoft.Data.Services.Client.resources.dll
+C:\TFS\AlexPanov\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.Analysis.WorkerRole\ru\System.Spatial.resources.dll
+C:\TFS\AlexPanov\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.Analysis.WorkerRole\System.Device.dll
+C:\TFS\AlexPanov\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.Analysis.WorkerRole\System.Net.Http.Formatting.dll
+C:\TFS\AlexPanov\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.Analysis.WorkerRole\System.Spatial.dll
+C:\TFS\AlexPanov\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.Analysis.WorkerRole\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\TFS\AlexPanov\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.Analysis.WorkerRole\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\TFS\AlexPanov\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.Analysis.WorkerRole\zh-Hans\Microsoft.Data.Services.Client.resources.dll
+C:\TFS\AlexPanov\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.Analysis.WorkerRole\zh-Hans\System.Spatial.resources.dll
+C:\TFS\AlexPanov\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.Analysis.WorkerRole\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\TFS\AlexPanov\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.Analysis.WorkerRole\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\TFS\AlexPanov\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.Analysis.WorkerRole\zh-Hant\Microsoft.Data.Services.Client.resources.dll
+C:\TFS\AlexPanov\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.Analysis.WorkerRole\zh-Hant\System.Spatial.resources.dll
+C:\Users\Pano\Desktop\INFM115_Week14 Demo\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\bin\Debug\ServiceConfiguration.cscfg
+C:\Users\Pano\Desktop\INFM115_Week14 Demo\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\bin\Debug\ServiceDefinition.csdef
+C:\Users\Pano\Desktop\INFM115_Week14 Demo\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.WebSite.WebRole\bin\Antlr3.Runtime.dll
+C:\Users\Pano\Desktop\INFM115_Week14 Demo\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.WebSite.WebRole\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Pano\Desktop\INFM115_Week14 Demo\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.WebSite.WebRole\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+C:\Users\Pano\Desktop\INFM115_Week14 Demo\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.WebSite.WebRole\bin\Default.js
+C:\Users\Pano\Desktop\INFM115_Week14 Demo\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.WebSite.WebRole\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Users\Pano\Desktop\INFM115_Week14 Demo\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.WebSite.WebRole\bin\de\Microsoft.Data.OData.resources.dll
+C:\Users\Pano\Desktop\INFM115_Week14 Demo\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.WebSite.WebRole\bin\de\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Pano\Desktop\INFM115_Week14 Demo\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.WebSite.WebRole\bin\de\System.Spatial.resources.dll
+C:\Users\Pano\Desktop\INFM115_Week14 Demo\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.WebSite.WebRole\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\Pano\Desktop\INFM115_Week14 Demo\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.WebSite.WebRole\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\Pano\Desktop\INFM115_Week14 Demo\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.WebSite.WebRole\bin\DotNetOpenAuth.Core.dll
+C:\Users\Pano\Desktop\INFM115_Week14 Demo\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.WebSite.WebRole\bin\DotNetOpenAuth.Core.xml
+C:\Users\Pano\Desktop\INFM115_Week14 Demo\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.WebSite.WebRole\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\Pano\Desktop\INFM115_Week14 Demo\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.WebSite.WebRole\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\Pano\Desktop\INFM115_Week14 Demo\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.WebSite.WebRole\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\Pano\Desktop\INFM115_Week14 Demo\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.WebSite.WebRole\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\Pano\Desktop\INFM115_Week14 Demo\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.WebSite.WebRole\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\Pano\Desktop\INFM115_Week14 Demo\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.WebSite.WebRole\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\Pano\Desktop\INFM115_Week14 Demo\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.WebSite.WebRole\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\Pano\Desktop\INFM115_Week14 Demo\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.WebSite.WebRole\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\Pano\Desktop\INFM115_Week14 Demo\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.WebSite.WebRole\bin\EntityFramework.dll
+C:\Users\Pano\Desktop\INFM115_Week14 Demo\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.WebSite.WebRole\bin\EntityFramework.xml
+C:\Users\Pano\Desktop\INFM115_Week14 Demo\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.WebSite.WebRole\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Users\Pano\Desktop\INFM115_Week14 Demo\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.WebSite.WebRole\bin\es\Microsoft.Data.OData.resources.dll
+C:\Users\Pano\Desktop\INFM115_Week14 Demo\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.WebSite.WebRole\bin\es\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Pano\Desktop\INFM115_Week14 Demo\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.WebSite.WebRole\bin\es\System.Spatial.resources.dll
+C:\Users\Pano\Desktop\INFM115_Week14 Demo\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.WebSite.WebRole\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\Pano\Desktop\INFM115_Week14 Demo\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.WebSite.WebRole\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Users\Pano\Desktop\INFM115_Week14 Demo\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.WebSite.WebRole\bin\fr\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Pano\Desktop\INFM115_Week14 Demo\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.WebSite.WebRole\bin\fr\System.Spatial.resources.dll
+C:\Users\Pano\Desktop\INFM115_Week14 Demo\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.WebSite.WebRole\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Users\Pano\Desktop\INFM115_Week14 Demo\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.WebSite.WebRole\bin\it\Microsoft.Data.OData.resources.dll
+C:\Users\Pano\Desktop\INFM115_Week14 Demo\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.WebSite.WebRole\bin\it\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Pano\Desktop\INFM115_Week14 Demo\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.WebSite.WebRole\bin\it\System.Spatial.resources.dll
+C:\Users\Pano\Desktop\INFM115_Week14 Demo\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.WebSite.WebRole\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\Pano\Desktop\INFM115_Week14 Demo\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.WebSite.WebRole\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Users\Pano\Desktop\INFM115_Week14 Demo\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.WebSite.WebRole\bin\ja\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Pano\Desktop\INFM115_Week14 Demo\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.WebSite.WebRole\bin\ja\System.Spatial.resources.dll
+C:\Users\Pano\Desktop\INFM115_Week14 Demo\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.WebSite.WebRole\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\Pano\Desktop\INFM115_Week14 Demo\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.WebSite.WebRole\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Users\Pano\Desktop\INFM115_Week14 Demo\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.WebSite.WebRole\bin\ko\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Pano\Desktop\INFM115_Week14 Demo\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.WebSite.WebRole\bin\ko\System.Spatial.resources.dll
+C:\Users\Pano\Desktop\INFM115_Week14 Demo\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.WebSite.WebRole\bin\LocationMatch.DataAccess.dll
+C:\Users\Pano\Desktop\INFM115_Week14 Demo\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.WebSite.WebRole\bin\LocationMatch.DataAccess.pdb
+C:\Users\Pano\Desktop\INFM115_Week14 Demo\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.WebSite.WebRole\bin\LocationMatch.WebSite.WebRole.dll
+C:\Users\Pano\Desktop\INFM115_Week14 Demo\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.WebSite.WebRole\bin\LocationMatch.WebSite.WebRole.dll.config
+C:\Users\Pano\Desktop\INFM115_Week14 Demo\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.WebSite.WebRole\bin\LocationMatch.WebSite.WebRole.pdb
+C:\Users\Pano\Desktop\INFM115_Week14 Demo\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.WebSite.WebRole\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Pano\Desktop\INFM115_Week14 Demo\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.WebSite.WebRole\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Pano\Desktop\INFM115_Week14 Demo\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.WebSite.WebRole\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+C:\Users\Pano\Desktop\INFM115_Week14 Demo\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.WebSite.WebRole\bin\Microsoft.AspNet.Membership.OpenAuth.xml
+C:\Users\Pano\Desktop\INFM115_Week14 Demo\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.WebSite.WebRole\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Pano\Desktop\INFM115_Week14 Demo\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.WebSite.WebRole\bin\Microsoft.Data.Edm.dll
+C:\Users\Pano\Desktop\INFM115_Week14 Demo\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.WebSite.WebRole\bin\Microsoft.Data.Edm.xml
+C:\Users\Pano\Desktop\INFM115_Week14 Demo\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.WebSite.WebRole\bin\Microsoft.Data.OData.dll
+C:\Users\Pano\Desktop\INFM115_Week14 Demo\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.WebSite.WebRole\bin\Microsoft.Data.OData.xml
+C:\Users\Pano\Desktop\INFM115_Week14 Demo\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.WebSite.WebRole\bin\Microsoft.Data.Services.Client.dll
+C:\Users\Pano\Desktop\INFM115_Week14 Demo\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.WebSite.WebRole\bin\Microsoft.Data.Services.Client.xml
+C:\Users\Pano\Desktop\INFM115_Week14 Demo\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.WebSite.WebRole\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Pano\Desktop\INFM115_Week14 Demo\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.WebSite.WebRole\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Pano\Desktop\INFM115_Week14 Demo\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.WebSite.WebRole\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Pano\Desktop\INFM115_Week14 Demo\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.WebSite.WebRole\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\Pano\Desktop\INFM115_Week14 Demo\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.WebSite.WebRole\bin\Microsoft.WindowsAzure.Configuration.xml
+C:\Users\Pano\Desktop\INFM115_Week14 Demo\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.WebSite.WebRole\bin\Microsoft.WindowsAzure.Diagnostics.dll
+C:\Users\Pano\Desktop\INFM115_Week14 Demo\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.WebSite.WebRole\bin\Microsoft.WindowsAzure.ServiceRuntime.dll
+C:\Users\Pano\Desktop\INFM115_Week14 Demo\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.WebSite.WebRole\bin\Microsoft.WindowsAzure.Storage.dll
+C:\Users\Pano\Desktop\INFM115_Week14 Demo\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.WebSite.WebRole\bin\Microsoft.WindowsAzure.Storage.xml
+C:\Users\Pano\Desktop\INFM115_Week14 Demo\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.WebSite.WebRole\bin\MonAgentListener.dll
+C:\Users\Pano\Desktop\INFM115_Week14 Demo\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.WebSite.WebRole\bin\Mono.Math.dll
+C:\Users\Pano\Desktop\INFM115_Week14 Demo\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.WebSite.WebRole\bin\Mono.Math.xml
+C:\Users\Pano\Desktop\INFM115_Week14 Demo\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.WebSite.WebRole\bin\Newtonsoft.Json.dll
+C:\Users\Pano\Desktop\INFM115_Week14 Demo\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.WebSite.WebRole\bin\Newtonsoft.Json.xml
+C:\Users\Pano\Desktop\INFM115_Week14 Demo\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.WebSite.WebRole\bin\Org.Mentalis.Security.Cryptography.dll
+C:\Users\Pano\Desktop\INFM115_Week14 Demo\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.WebSite.WebRole\bin\Org.Mentalis.Security.Cryptography.xml
+C:\Users\Pano\Desktop\INFM115_Week14 Demo\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.WebSite.WebRole\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\Pano\Desktop\INFM115_Week14 Demo\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.WebSite.WebRole\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Users\Pano\Desktop\INFM115_Week14 Demo\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.WebSite.WebRole\bin\ru\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Pano\Desktop\INFM115_Week14 Demo\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.WebSite.WebRole\bin\ru\System.Spatial.resources.dll
+C:\Users\Pano\Desktop\INFM115_Week14 Demo\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.WebSite.WebRole\bin\System.Spatial.dll
+C:\Users\Pano\Desktop\INFM115_Week14 Demo\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.WebSite.WebRole\bin\System.Spatial.xml
+C:\Users\Pano\Desktop\INFM115_Week14 Demo\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.WebSite.WebRole\bin\System.Web.Optimization.dll
+C:\Users\Pano\Desktop\INFM115_Week14 Demo\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.WebSite.WebRole\bin\System.Web.Providers.dll
+C:\Users\Pano\Desktop\INFM115_Week14 Demo\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.WebSite.WebRole\bin\WebGrease.dll
+C:\Users\Pano\Desktop\INFM115_Week14 Demo\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.WebSite.WebRole\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\Pano\Desktop\INFM115_Week14 Demo\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.WebSite.WebRole\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\Pano\Desktop\INFM115_Week14 Demo\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.WebSite.WebRole\bin\zh-Hans\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Pano\Desktop\INFM115_Week14 Demo\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.WebSite.WebRole\bin\zh-Hans\System.Spatial.resources.dll
+C:\Users\Pano\Desktop\INFM115_Week14 Demo\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.WebSite.WebRole\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\Pano\Desktop\INFM115_Week14 Demo\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.WebSite.WebRole\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\Pano\Desktop\INFM115_Week14 Demo\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.WebSite.WebRole\bin\zh-Hant\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Pano\Desktop\INFM115_Week14 Demo\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.WebSite.WebRole\bin\zh-Hant\System.Spatial.resources.dll
+C:\Users\Pano\Desktop\INFM115_Week14 Demo\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.Analysis.WorkerRole\de\Microsoft.Data.Edm.resources.dll
+C:\Users\Pano\Desktop\INFM115_Week14 Demo\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.Analysis.WorkerRole\de\Microsoft.Data.OData.resources.dll
+C:\Users\Pano\Desktop\INFM115_Week14 Demo\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.Analysis.WorkerRole\de\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Pano\Desktop\INFM115_Week14 Demo\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.Analysis.WorkerRole\de\System.Spatial.resources.dll
+C:\Users\Pano\Desktop\INFM115_Week14 Demo\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.Analysis.WorkerRole\EntityFramework.dll
+C:\Users\Pano\Desktop\INFM115_Week14 Demo\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.Analysis.WorkerRole\es\Microsoft.Data.Edm.resources.dll
+C:\Users\Pano\Desktop\INFM115_Week14 Demo\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.Analysis.WorkerRole\es\Microsoft.Data.OData.resources.dll
+C:\Users\Pano\Desktop\INFM115_Week14 Demo\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.Analysis.WorkerRole\es\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Pano\Desktop\INFM115_Week14 Demo\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.Analysis.WorkerRole\es\System.Spatial.resources.dll
+C:\Users\Pano\Desktop\INFM115_Week14 Demo\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.Analysis.WorkerRole\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\Pano\Desktop\INFM115_Week14 Demo\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.Analysis.WorkerRole\fr\Microsoft.Data.OData.resources.dll
+C:\Users\Pano\Desktop\INFM115_Week14 Demo\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.Analysis.WorkerRole\fr\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Pano\Desktop\INFM115_Week14 Demo\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.Analysis.WorkerRole\fr\System.Spatial.resources.dll
+C:\Users\Pano\Desktop\INFM115_Week14 Demo\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.Analysis.WorkerRole\it\Microsoft.Data.Edm.resources.dll
+C:\Users\Pano\Desktop\INFM115_Week14 Demo\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.Analysis.WorkerRole\it\Microsoft.Data.OData.resources.dll
+C:\Users\Pano\Desktop\INFM115_Week14 Demo\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.Analysis.WorkerRole\it\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Pano\Desktop\INFM115_Week14 Demo\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.Analysis.WorkerRole\it\System.Spatial.resources.dll
+C:\Users\Pano\Desktop\INFM115_Week14 Demo\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.Analysis.WorkerRole\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\Pano\Desktop\INFM115_Week14 Demo\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.Analysis.WorkerRole\ja\Microsoft.Data.OData.resources.dll
+C:\Users\Pano\Desktop\INFM115_Week14 Demo\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.Analysis.WorkerRole\ja\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Pano\Desktop\INFM115_Week14 Demo\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.Analysis.WorkerRole\ja\System.Spatial.resources.dll
+C:\Users\Pano\Desktop\INFM115_Week14 Demo\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.Analysis.WorkerRole\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\Pano\Desktop\INFM115_Week14 Demo\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.Analysis.WorkerRole\ko\Microsoft.Data.OData.resources.dll
+C:\Users\Pano\Desktop\INFM115_Week14 Demo\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.Analysis.WorkerRole\ko\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Pano\Desktop\INFM115_Week14 Demo\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.Analysis.WorkerRole\ko\System.Spatial.resources.dll
+C:\Users\Pano\Desktop\INFM115_Week14 Demo\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.Analysis.WorkerRole\LocationMatch.Analysis.WorkerRole.dll
+C:\Users\Pano\Desktop\INFM115_Week14 Demo\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.Analysis.WorkerRole\LocationMatch.Analysis.WorkerRole.dll.config
+C:\Users\Pano\Desktop\INFM115_Week14 Demo\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.Analysis.WorkerRole\LocationMatch.Analysis.WorkerRole.pdb
+C:\Users\Pano\Desktop\INFM115_Week14 Demo\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.Analysis.WorkerRole\LocationMatch.DataAccess.dll
+C:\Users\Pano\Desktop\INFM115_Week14 Demo\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.Analysis.WorkerRole\LocationMatch.DataAccess.pdb
+C:\Users\Pano\Desktop\INFM115_Week14 Demo\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.Analysis.WorkerRole\Microsoft.Data.Edm.dll
+C:\Users\Pano\Desktop\INFM115_Week14 Demo\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.Analysis.WorkerRole\Microsoft.Data.OData.dll
+C:\Users\Pano\Desktop\INFM115_Week14 Demo\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.Analysis.WorkerRole\Microsoft.Data.Services.Client.dll
+C:\Users\Pano\Desktop\INFM115_Week14 Demo\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.Analysis.WorkerRole\Microsoft.Hadoop.MapReduce.dll
+C:\Users\Pano\Desktop\INFM115_Week14 Demo\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.Analysis.WorkerRole\Microsoft.Hadoop.WebClient.dll
+C:\Users\Pano\Desktop\INFM115_Week14 Demo\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.Analysis.WorkerRole\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\Pano\Desktop\INFM115_Week14 Demo\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.Analysis.WorkerRole\Microsoft.WindowsAzure.Diagnostics.dll
+C:\Users\Pano\Desktop\INFM115_Week14 Demo\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.Analysis.WorkerRole\Microsoft.WindowsAzure.Management.HDInsight.Framework.Experimental.dll
+C:\Users\Pano\Desktop\INFM115_Week14 Demo\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.Analysis.WorkerRole\Microsoft.WindowsAzure.Management.HDInsight.Framework.Experimental.Threading.dll
+C:\Users\Pano\Desktop\INFM115_Week14 Demo\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.Analysis.WorkerRole\Microsoft.WindowsAzure.Storage.dll
+C:\Users\Pano\Desktop\INFM115_Week14 Demo\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.Analysis.WorkerRole\MonAgentListener.dll
+C:\Users\Pano\Desktop\INFM115_Week14 Demo\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.Analysis.WorkerRole\MRLib\Microsoft.Hadoop.CombineDriver.exe
+C:\Users\Pano\Desktop\INFM115_Week14 Demo\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.Analysis.WorkerRole\MRLib\Microsoft.Hadoop.MapDriver.exe
+C:\Users\Pano\Desktop\INFM115_Week14 Demo\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.Analysis.WorkerRole\MRLib\Microsoft.Hadoop.MapReduce.dll
+C:\Users\Pano\Desktop\INFM115_Week14 Demo\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.Analysis.WorkerRole\MRLib\Microsoft.Hadoop.ReduceDriver.exe
+C:\Users\Pano\Desktop\INFM115_Week14 Demo\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.Analysis.WorkerRole\MRLib\Microsoft.WindowsAzure.Management.HDInsight.Framework.Experimental.Threading.dll
+C:\Users\Pano\Desktop\INFM115_Week14 Demo\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.Analysis.WorkerRole\MRLib\MRRunner.exe
+C:\Users\Pano\Desktop\INFM115_Week14 Demo\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.Analysis.WorkerRole\Newtonsoft.Json.dll
+C:\Users\Pano\Desktop\INFM115_Week14 Demo\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.Analysis.WorkerRole\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\Pano\Desktop\INFM115_Week14 Demo\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.Analysis.WorkerRole\ru\Microsoft.Data.OData.resources.dll
+C:\Users\Pano\Desktop\INFM115_Week14 Demo\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.Analysis.WorkerRole\ru\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Pano\Desktop\INFM115_Week14 Demo\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.Analysis.WorkerRole\ru\System.Spatial.resources.dll
+C:\Users\Pano\Desktop\INFM115_Week14 Demo\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.Analysis.WorkerRole\System.Device.dll
+C:\Users\Pano\Desktop\INFM115_Week14 Demo\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.Analysis.WorkerRole\System.Net.Http.Formatting.dll
+C:\Users\Pano\Desktop\INFM115_Week14 Demo\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.Analysis.WorkerRole\System.Spatial.dll
+C:\Users\Pano\Desktop\INFM115_Week14 Demo\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.Analysis.WorkerRole\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\Pano\Desktop\INFM115_Week14 Demo\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.Analysis.WorkerRole\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\Pano\Desktop\INFM115_Week14 Demo\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.Analysis.WorkerRole\zh-Hans\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Pano\Desktop\INFM115_Week14 Demo\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.Analysis.WorkerRole\zh-Hans\System.Spatial.resources.dll
+C:\Users\Pano\Desktop\INFM115_Week14 Demo\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.Analysis.WorkerRole\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\Pano\Desktop\INFM115_Week14 Demo\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.Analysis.WorkerRole\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\Pano\Desktop\INFM115_Week14 Demo\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.Analysis.WorkerRole\zh-Hant\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Pano\Desktop\INFM115_Week14 Demo\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.Analysis.WorkerRole\zh-Hant\System.Spatial.resources.dll
+E:\Cloud2017\NETB481_Week12\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\bin\Debug\ServiceConfiguration.cscfg
+E:\Cloud2017\NETB481_Week12\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\bin\Debug\ServiceDefinition.csdef
+E:\Cloud2017\NETB481_Week12\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.WebSite.WebRole\bin\Antlr3.Runtime.dll
+E:\Cloud2017\NETB481_Week12\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.WebSite.WebRole\bin\AspNet.ScriptManager.jQuery.dll
+E:\Cloud2017\NETB481_Week12\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.WebSite.WebRole\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+E:\Cloud2017\NETB481_Week12\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.WebSite.WebRole\bin\Default.js
+E:\Cloud2017\NETB481_Week12\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.WebSite.WebRole\bin\de\Microsoft.Data.Edm.resources.dll
+E:\Cloud2017\NETB481_Week12\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.WebSite.WebRole\bin\de\Microsoft.Data.OData.resources.dll
+E:\Cloud2017\NETB481_Week12\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.WebSite.WebRole\bin\de\Microsoft.Data.Services.Client.resources.dll
+E:\Cloud2017\NETB481_Week12\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.WebSite.WebRole\bin\de\System.Spatial.resources.dll
+E:\Cloud2017\NETB481_Week12\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.WebSite.WebRole\bin\DotNetOpenAuth.AspNet.dll
+E:\Cloud2017\NETB481_Week12\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.WebSite.WebRole\bin\DotNetOpenAuth.AspNet.xml
+E:\Cloud2017\NETB481_Week12\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.WebSite.WebRole\bin\DotNetOpenAuth.Core.dll
+E:\Cloud2017\NETB481_Week12\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.WebSite.WebRole\bin\DotNetOpenAuth.Core.xml
+E:\Cloud2017\NETB481_Week12\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.WebSite.WebRole\bin\DotNetOpenAuth.OAuth.Consumer.dll
+E:\Cloud2017\NETB481_Week12\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.WebSite.WebRole\bin\DotNetOpenAuth.OAuth.Consumer.xml
+E:\Cloud2017\NETB481_Week12\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.WebSite.WebRole\bin\DotNetOpenAuth.OAuth.dll
+E:\Cloud2017\NETB481_Week12\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.WebSite.WebRole\bin\DotNetOpenAuth.OAuth.xml
+E:\Cloud2017\NETB481_Week12\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.WebSite.WebRole\bin\DotNetOpenAuth.OpenId.dll
+E:\Cloud2017\NETB481_Week12\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.WebSite.WebRole\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+E:\Cloud2017\NETB481_Week12\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.WebSite.WebRole\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+E:\Cloud2017\NETB481_Week12\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.WebSite.WebRole\bin\DotNetOpenAuth.OpenId.xml
+E:\Cloud2017\NETB481_Week12\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.WebSite.WebRole\bin\EntityFramework.dll
+E:\Cloud2017\NETB481_Week12\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.WebSite.WebRole\bin\EntityFramework.xml
+E:\Cloud2017\NETB481_Week12\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.WebSite.WebRole\bin\es\Microsoft.Data.Edm.resources.dll
+E:\Cloud2017\NETB481_Week12\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.WebSite.WebRole\bin\es\Microsoft.Data.OData.resources.dll
+E:\Cloud2017\NETB481_Week12\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.WebSite.WebRole\bin\es\Microsoft.Data.Services.Client.resources.dll
+E:\Cloud2017\NETB481_Week12\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.WebSite.WebRole\bin\es\System.Spatial.resources.dll
+E:\Cloud2017\NETB481_Week12\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.WebSite.WebRole\bin\fr\Microsoft.Data.Edm.resources.dll
+E:\Cloud2017\NETB481_Week12\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.WebSite.WebRole\bin\fr\Microsoft.Data.OData.resources.dll
+E:\Cloud2017\NETB481_Week12\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.WebSite.WebRole\bin\fr\Microsoft.Data.Services.Client.resources.dll
+E:\Cloud2017\NETB481_Week12\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.WebSite.WebRole\bin\fr\System.Spatial.resources.dll
+E:\Cloud2017\NETB481_Week12\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.WebSite.WebRole\bin\it\Microsoft.Data.Edm.resources.dll
+E:\Cloud2017\NETB481_Week12\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.WebSite.WebRole\bin\it\Microsoft.Data.OData.resources.dll
+E:\Cloud2017\NETB481_Week12\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.WebSite.WebRole\bin\it\Microsoft.Data.Services.Client.resources.dll
+E:\Cloud2017\NETB481_Week12\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.WebSite.WebRole\bin\it\System.Spatial.resources.dll
+E:\Cloud2017\NETB481_Week12\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.WebSite.WebRole\bin\ja\Microsoft.Data.Edm.resources.dll
+E:\Cloud2017\NETB481_Week12\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.WebSite.WebRole\bin\ja\Microsoft.Data.OData.resources.dll
+E:\Cloud2017\NETB481_Week12\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.WebSite.WebRole\bin\ja\Microsoft.Data.Services.Client.resources.dll
+E:\Cloud2017\NETB481_Week12\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.WebSite.WebRole\bin\ja\System.Spatial.resources.dll
+E:\Cloud2017\NETB481_Week12\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.WebSite.WebRole\bin\ko\Microsoft.Data.Edm.resources.dll
+E:\Cloud2017\NETB481_Week12\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.WebSite.WebRole\bin\ko\Microsoft.Data.OData.resources.dll
+E:\Cloud2017\NETB481_Week12\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.WebSite.WebRole\bin\ko\Microsoft.Data.Services.Client.resources.dll
+E:\Cloud2017\NETB481_Week12\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.WebSite.WebRole\bin\ko\System.Spatial.resources.dll
+E:\Cloud2017\NETB481_Week12\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.WebSite.WebRole\bin\LocationMatch.DataAccess.dll
+E:\Cloud2017\NETB481_Week12\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.WebSite.WebRole\bin\LocationMatch.DataAccess.pdb
+E:\Cloud2017\NETB481_Week12\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.WebSite.WebRole\bin\LocationMatch.WebSite.WebRole.dll
+E:\Cloud2017\NETB481_Week12\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.WebSite.WebRole\bin\LocationMatch.WebSite.WebRole.dll.config
+E:\Cloud2017\NETB481_Week12\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.WebSite.WebRole\bin\LocationMatch.WebSite.WebRole.pdb
+E:\Cloud2017\NETB481_Week12\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.WebSite.WebRole\bin\Microsoft.AspNet.FriendlyUrls.dll
+E:\Cloud2017\NETB481_Week12\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.WebSite.WebRole\bin\Microsoft.AspNet.FriendlyUrls.xml
+E:\Cloud2017\NETB481_Week12\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.WebSite.WebRole\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+E:\Cloud2017\NETB481_Week12\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.WebSite.WebRole\bin\Microsoft.AspNet.Membership.OpenAuth.xml
+E:\Cloud2017\NETB481_Week12\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.WebSite.WebRole\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+E:\Cloud2017\NETB481_Week12\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.WebSite.WebRole\bin\Microsoft.Data.Edm.dll
+E:\Cloud2017\NETB481_Week12\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.WebSite.WebRole\bin\Microsoft.Data.Edm.xml
+E:\Cloud2017\NETB481_Week12\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.WebSite.WebRole\bin\Microsoft.Data.OData.dll
+E:\Cloud2017\NETB481_Week12\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.WebSite.WebRole\bin\Microsoft.Data.OData.xml
+E:\Cloud2017\NETB481_Week12\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.WebSite.WebRole\bin\Microsoft.Data.Services.Client.dll
+E:\Cloud2017\NETB481_Week12\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.WebSite.WebRole\bin\Microsoft.Data.Services.Client.xml
+E:\Cloud2017\NETB481_Week12\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.WebSite.WebRole\bin\Microsoft.ScriptManager.MSAjax.dll
+E:\Cloud2017\NETB481_Week12\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.WebSite.WebRole\bin\Microsoft.ScriptManager.WebForms.dll
+E:\Cloud2017\NETB481_Week12\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.WebSite.WebRole\bin\Microsoft.Web.Infrastructure.dll
+E:\Cloud2017\NETB481_Week12\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.WebSite.WebRole\bin\Microsoft.WindowsAzure.Configuration.dll
+E:\Cloud2017\NETB481_Week12\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.WebSite.WebRole\bin\Microsoft.WindowsAzure.Configuration.xml
+E:\Cloud2017\NETB481_Week12\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.WebSite.WebRole\bin\Microsoft.WindowsAzure.Diagnostics.dll
+E:\Cloud2017\NETB481_Week12\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.WebSite.WebRole\bin\Microsoft.WindowsAzure.ServiceRuntime.dll
+E:\Cloud2017\NETB481_Week12\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.WebSite.WebRole\bin\Microsoft.WindowsAzure.Storage.dll
+E:\Cloud2017\NETB481_Week12\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.WebSite.WebRole\bin\Microsoft.WindowsAzure.Storage.xml
+E:\Cloud2017\NETB481_Week12\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.WebSite.WebRole\bin\MonAgentListener.dll
+E:\Cloud2017\NETB481_Week12\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.WebSite.WebRole\bin\Mono.Math.dll
+E:\Cloud2017\NETB481_Week12\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.WebSite.WebRole\bin\Mono.Math.xml
+E:\Cloud2017\NETB481_Week12\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.WebSite.WebRole\bin\Newtonsoft.Json.dll
+E:\Cloud2017\NETB481_Week12\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.WebSite.WebRole\bin\Newtonsoft.Json.xml
+E:\Cloud2017\NETB481_Week12\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.WebSite.WebRole\bin\Org.Mentalis.Security.Cryptography.dll
+E:\Cloud2017\NETB481_Week12\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.WebSite.WebRole\bin\Org.Mentalis.Security.Cryptography.xml
+E:\Cloud2017\NETB481_Week12\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.WebSite.WebRole\bin\ru\Microsoft.Data.Edm.resources.dll
+E:\Cloud2017\NETB481_Week12\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.WebSite.WebRole\bin\ru\Microsoft.Data.OData.resources.dll
+E:\Cloud2017\NETB481_Week12\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.WebSite.WebRole\bin\ru\Microsoft.Data.Services.Client.resources.dll
+E:\Cloud2017\NETB481_Week12\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.WebSite.WebRole\bin\ru\System.Spatial.resources.dll
+E:\Cloud2017\NETB481_Week12\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.WebSite.WebRole\bin\System.Spatial.dll
+E:\Cloud2017\NETB481_Week12\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.WebSite.WebRole\bin\System.Spatial.xml
+E:\Cloud2017\NETB481_Week12\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.WebSite.WebRole\bin\System.Web.Optimization.dll
+E:\Cloud2017\NETB481_Week12\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.WebSite.WebRole\bin\System.Web.Providers.dll
+E:\Cloud2017\NETB481_Week12\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.WebSite.WebRole\bin\WebGrease.dll
+E:\Cloud2017\NETB481_Week12\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.WebSite.WebRole\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+E:\Cloud2017\NETB481_Week12\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.WebSite.WebRole\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+E:\Cloud2017\NETB481_Week12\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.WebSite.WebRole\bin\zh-Hans\Microsoft.Data.Services.Client.resources.dll
+E:\Cloud2017\NETB481_Week12\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.WebSite.WebRole\bin\zh-Hans\System.Spatial.resources.dll
+E:\Cloud2017\NETB481_Week12\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.WebSite.WebRole\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+E:\Cloud2017\NETB481_Week12\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.WebSite.WebRole\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+E:\Cloud2017\NETB481_Week12\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.WebSite.WebRole\bin\zh-Hant\Microsoft.Data.Services.Client.resources.dll
+E:\Cloud2017\NETB481_Week12\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.WebSite.WebRole\bin\zh-Hant\System.Spatial.resources.dll
+E:\Cloud2017\NETB481_Week12\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.Analysis.WorkerRole\de\Microsoft.Data.Edm.resources.dll
+E:\Cloud2017\NETB481_Week12\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.Analysis.WorkerRole\de\Microsoft.Data.OData.resources.dll
+E:\Cloud2017\NETB481_Week12\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.Analysis.WorkerRole\de\Microsoft.Data.Services.Client.resources.dll
+E:\Cloud2017\NETB481_Week12\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.Analysis.WorkerRole\de\System.Spatial.resources.dll
+E:\Cloud2017\NETB481_Week12\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.Analysis.WorkerRole\EntityFramework.dll
+E:\Cloud2017\NETB481_Week12\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.Analysis.WorkerRole\es\Microsoft.Data.Edm.resources.dll
+E:\Cloud2017\NETB481_Week12\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.Analysis.WorkerRole\es\Microsoft.Data.OData.resources.dll
+E:\Cloud2017\NETB481_Week12\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.Analysis.WorkerRole\es\Microsoft.Data.Services.Client.resources.dll
+E:\Cloud2017\NETB481_Week12\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.Analysis.WorkerRole\es\System.Spatial.resources.dll
+E:\Cloud2017\NETB481_Week12\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.Analysis.WorkerRole\fr\Microsoft.Data.Edm.resources.dll
+E:\Cloud2017\NETB481_Week12\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.Analysis.WorkerRole\fr\Microsoft.Data.OData.resources.dll
+E:\Cloud2017\NETB481_Week12\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.Analysis.WorkerRole\fr\Microsoft.Data.Services.Client.resources.dll
+E:\Cloud2017\NETB481_Week12\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.Analysis.WorkerRole\fr\System.Spatial.resources.dll
+E:\Cloud2017\NETB481_Week12\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.Analysis.WorkerRole\it\Microsoft.Data.Edm.resources.dll
+E:\Cloud2017\NETB481_Week12\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.Analysis.WorkerRole\it\Microsoft.Data.OData.resources.dll
+E:\Cloud2017\NETB481_Week12\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.Analysis.WorkerRole\it\Microsoft.Data.Services.Client.resources.dll
+E:\Cloud2017\NETB481_Week12\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.Analysis.WorkerRole\it\System.Spatial.resources.dll
+E:\Cloud2017\NETB481_Week12\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.Analysis.WorkerRole\ja\Microsoft.Data.Edm.resources.dll
+E:\Cloud2017\NETB481_Week12\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.Analysis.WorkerRole\ja\Microsoft.Data.OData.resources.dll
+E:\Cloud2017\NETB481_Week12\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.Analysis.WorkerRole\ja\Microsoft.Data.Services.Client.resources.dll
+E:\Cloud2017\NETB481_Week12\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.Analysis.WorkerRole\ja\System.Spatial.resources.dll
+E:\Cloud2017\NETB481_Week12\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.Analysis.WorkerRole\ko\Microsoft.Data.Edm.resources.dll
+E:\Cloud2017\NETB481_Week12\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.Analysis.WorkerRole\ko\Microsoft.Data.OData.resources.dll
+E:\Cloud2017\NETB481_Week12\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.Analysis.WorkerRole\ko\Microsoft.Data.Services.Client.resources.dll
+E:\Cloud2017\NETB481_Week12\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.Analysis.WorkerRole\ko\System.Spatial.resources.dll
+E:\Cloud2017\NETB481_Week12\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.Analysis.WorkerRole\LocationMatch.Analysis.WorkerRole.dll
+E:\Cloud2017\NETB481_Week12\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.Analysis.WorkerRole\LocationMatch.Analysis.WorkerRole.dll.config
+E:\Cloud2017\NETB481_Week12\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.Analysis.WorkerRole\LocationMatch.Analysis.WorkerRole.pdb
+E:\Cloud2017\NETB481_Week12\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.Analysis.WorkerRole\LocationMatch.DataAccess.dll
+E:\Cloud2017\NETB481_Week12\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.Analysis.WorkerRole\LocationMatch.DataAccess.pdb
+E:\Cloud2017\NETB481_Week12\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.Analysis.WorkerRole\Microsoft.Data.Edm.dll
+E:\Cloud2017\NETB481_Week12\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.Analysis.WorkerRole\Microsoft.Data.OData.dll
+E:\Cloud2017\NETB481_Week12\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.Analysis.WorkerRole\Microsoft.Data.Services.Client.dll
+E:\Cloud2017\NETB481_Week12\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.Analysis.WorkerRole\Microsoft.Hadoop.MapReduce.dll
+E:\Cloud2017\NETB481_Week12\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.Analysis.WorkerRole\Microsoft.Hadoop.WebClient.dll
+E:\Cloud2017\NETB481_Week12\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.Analysis.WorkerRole\Microsoft.WindowsAzure.Configuration.dll
+E:\Cloud2017\NETB481_Week12\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.Analysis.WorkerRole\Microsoft.WindowsAzure.Diagnostics.dll
+E:\Cloud2017\NETB481_Week12\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.Analysis.WorkerRole\Microsoft.WindowsAzure.Management.HDInsight.Framework.Experimental.dll
+E:\Cloud2017\NETB481_Week12\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.Analysis.WorkerRole\Microsoft.WindowsAzure.Management.HDInsight.Framework.Experimental.Threading.dll
+E:\Cloud2017\NETB481_Week12\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.Analysis.WorkerRole\Microsoft.WindowsAzure.Storage.dll
+E:\Cloud2017\NETB481_Week12\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.Analysis.WorkerRole\MonAgentListener.dll
+E:\Cloud2017\NETB481_Week12\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.Analysis.WorkerRole\MRLib\Microsoft.Hadoop.CombineDriver.exe
+E:\Cloud2017\NETB481_Week12\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.Analysis.WorkerRole\MRLib\Microsoft.Hadoop.MapDriver.exe
+E:\Cloud2017\NETB481_Week12\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.Analysis.WorkerRole\MRLib\Microsoft.Hadoop.MapReduce.dll
+E:\Cloud2017\NETB481_Week12\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.Analysis.WorkerRole\MRLib\Microsoft.Hadoop.ReduceDriver.exe
+E:\Cloud2017\NETB481_Week12\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.Analysis.WorkerRole\MRLib\Microsoft.WindowsAzure.Management.HDInsight.Framework.Experimental.Threading.dll
+E:\Cloud2017\NETB481_Week12\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.Analysis.WorkerRole\MRLib\MRRunner.exe
+E:\Cloud2017\NETB481_Week12\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.Analysis.WorkerRole\Newtonsoft.Json.dll
+E:\Cloud2017\NETB481_Week12\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.Analysis.WorkerRole\ru\Microsoft.Data.Edm.resources.dll
+E:\Cloud2017\NETB481_Week12\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.Analysis.WorkerRole\ru\Microsoft.Data.OData.resources.dll
+E:\Cloud2017\NETB481_Week12\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.Analysis.WorkerRole\ru\Microsoft.Data.Services.Client.resources.dll
+E:\Cloud2017\NETB481_Week12\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.Analysis.WorkerRole\ru\System.Spatial.resources.dll
+E:\Cloud2017\NETB481_Week12\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.Analysis.WorkerRole\System.Device.dll
+E:\Cloud2017\NETB481_Week12\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.Analysis.WorkerRole\System.Net.Http.Formatting.dll
+E:\Cloud2017\NETB481_Week12\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.Analysis.WorkerRole\System.Spatial.dll
+E:\Cloud2017\NETB481_Week12\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.Analysis.WorkerRole\zh-Hans\Microsoft.Data.Edm.resources.dll
+E:\Cloud2017\NETB481_Week12\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.Analysis.WorkerRole\zh-Hans\Microsoft.Data.OData.resources.dll
+E:\Cloud2017\NETB481_Week12\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.Analysis.WorkerRole\zh-Hans\Microsoft.Data.Services.Client.resources.dll
+E:\Cloud2017\NETB481_Week12\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.Analysis.WorkerRole\zh-Hans\System.Spatial.resources.dll
+E:\Cloud2017\NETB481_Week12\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.Analysis.WorkerRole\zh-Hant\Microsoft.Data.Edm.resources.dll
+E:\Cloud2017\NETB481_Week12\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.Analysis.WorkerRole\zh-Hant\Microsoft.Data.OData.resources.dll
+E:\Cloud2017\NETB481_Week12\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.Analysis.WorkerRole\zh-Hant\Microsoft.Data.Services.Client.resources.dll
+E:\Cloud2017\NETB481_Week12\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.Analysis.WorkerRole\zh-Hant\System.Spatial.resources.dll
+E:\Cloud2017\NETB481_Week12\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.WebSite.WebRole\bin\LocationMatch.DataAccess.dll.config

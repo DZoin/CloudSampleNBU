@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+  <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="56385ebc7b304a3fa3a2a82a9de0c836" Name="Diagram1" ZoomLevel="98">
+        <EntityTypeShape EntityType="AzureCourse_LocationMatchModel.Location" Width="1.5" PointX="3.625" PointY="9.5" />
+        <EntityTypeShape EntityType="AzureCourse_LocationMatchModel.LocationList" Width="1.5" PointX="6.625" PointY="9.625" />
+        <EntityTypeShape EntityType="AzureCourse_LocationMatchModel.Track" Width="1.5" PointX="3.625" PointY="12.375" />
+        <AssociationConnector Association="AzureCourse_LocationMatchModel.B_LocationListLocation" />
+        <EntityTypeShape EntityType="AzureCourse_LocationMatchModel.LocationMatchAnalysi" Width="3" PointX="6.625" PointY="12.375" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

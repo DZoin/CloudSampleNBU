@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RoleModel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" name="LocationMatch.WebSite.WebRole" version="2.9.8699.20" xmlns="http://schemas.microsoft.com/ServiceHosting/2008/10/ServiceDefinition">
+  <Runtime>
+    <EntryPoint>
+      <NetFxEntryPoint assemblyName="LocationMatch.WebSite.WebRole.dll" targetFrameworkVersion="v4.0" />
+    </EntryPoint>
+  </Runtime>
+  <Properties>
+    <Property name="TargetFrameworkVersion" value="v4.5.1" />
+    <Property name="RoleType" value="Web" />
+    <Property name="RoleName" value="LocationMatch.WebSite.WebRole" />
+    <Property name="ProjectName" value="LocationMatch.WebSite.WebRole" />
+    <Property name="Configuration" value="Debug" />
+    <Property name="Platform" value="AnyCPU" />
+    <Property name="SetConfiguration" value="Configuration=Debug" />
+    <Property name="SetPlatform" value="Platform=AnyCPU" />
+    <Property name="RoleTargetFramework" value="v4.5.1" />
+    <Property name="OutputDir" value="E:\Cloud2017\NETB481_Week12\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.Cloud\obj\Debug\LocationMatch.WebSite.WebRole\" />
+    <Property name="EntryPoint" value="LocationMatch.WebSite.WebRole.dll" />
+    <Property name="SourceDir" value="E:\Cloud2017\NETB481_Week12\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.WebSite.WebRole\" />
+    <Property name="SitePhysicalPath" value="E:\Cloud2017\NETB481_Week12\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.WebSite.WebRole\" />
+    <Property name="TargetRuntimeVersion" value="v4.0" />
+  </Properties>
+  <Sites>
+    <Site name="Web" physicalDirectory="E:\Cloud2017\NETB481_Week12\AzureCourse_LocationMatch\Source_MapReduce\LocationMatch.WebSite.WebRole\">
+      <Bindings>
+        <Binding name="Endpoint1" endpointName="Endpoint1" />
+      </Bindings>
+    </Site>
+  </Sites>
+</RoleModel>
